@@ -1,5 +1,4 @@
 # EDA-Capstone-project-Hotel-Booking-Analysis
-# **Hotel Bookings Exploratory Data Analysis**
  
 ## **Objective**
 
